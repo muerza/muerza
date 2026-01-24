@@ -1,26 +1,26 @@
-## Sobre mí
-Hola, soy Fernando. Me gusta usar los datos para resolver problemas y ayudar a que los negocios tomen mejores decisiones. Me interesa todo lo relacionado con machine learning y actualmente estoy interesado en aprender más sobre redes neuronales. También me late automatizar procesos y construir cosas que realmente se usen.
+## About Me
+Hi, I’m Fernando. I enjoy using data to solve real-world problems and help businesses make better decisions. I’m passionate about machine learning and currently diving deeper into neural networks. I also love automating processes and building things that people actually use.
 
 ---
 
-## Habilidades
+## Skills
 - Python, SQL, scikit-learn, pandas, NumPy  
 - Django, Docker, Git, Jupyter  
-- Análisis de datos, modelos predictivos, pipelines  
-- Automatización con Make y n8n
+- Data analysis, predictive modeling, pipelines  
+- Workflow automation with Make and n8n
 
 ---
 
-## Proyectos
+## Projects
 
-**Predicción de Churn – Beta Bank**  
-Modelo para anticipar qué clientes están por irse.  
-[Ver repo](https://github.com/muerza/prediccion-de-churn-en-beta-bank)
+**Churn Prediction – Beta Bank**  
+Built a model to predict which customers are at risk of leaving.  
+[View repo](https://github.com/muerza/prediccion-de-churn-en-beta-bank)
 
-**Valuador Inmobiliario (en producción)**  
-Modelo que predice el valor de una propiedad con R² = 0.904. Lo desplegué como API y bajé el tiempo de valuación de 4 h a 39 s.
+**Real Estate Valuation Model (Production)**  
+Trained a property valuation model (R² = 0.904) and deployed it as a REST API using Django and Docker. Reduced valuation time from 4 hours to 39 seconds.
 
 ---
 
-## Contacto
-[LinkedIn](https://linkedin.com/in/muerza) [Página Web](https://fernandomuerza.com)
+## Contact
+[LinkedIn](https://linkedin.com/in/muerza) | [Website](https://fernandomuerza.com)
