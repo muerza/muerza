@@ -1,26 +1,65 @@
-## About Me
-Hi, I’m Fernando. I enjoy using data to solve real-world problems and help businesses make better decisions. I’m passionate about machine learning and currently diving deeper into neural networks. I also love automating processes and building things that people actually use.
+<h1 align="center">👋 Hey, I'm Fernando </h1>
+
+<p align="center">
+  📊 Data Scientist • 🐍 Python Fan • 🚀 Automation Lover  
+  <br>
+  🇲🇽 Based in CDMX | <a href="https://linkedin.com/in/muerza">LinkedIn</a> | <a href="https://fernandomuerza.com">Website</a>
+</p>
 
 ---
 
-## Skills
-- Python, SQL, scikit-learn, pandas, NumPy  
-- Django, Docker, Git, Jupyter  
-- Data analysis, predictive modeling, pipelines  
-- Workflow automation with Make and n8n
+## 🧠 About Me
+
+Hi! I'm Fernando — I like turning raw data into cool stuff.  
+I build data-powered solutions that help businesses make smarter decisions.  
+Currently geeking out on neural networks 🧬 and automating boring tasks with tools like Make and n8n ⚙️.
+
+I’m all about:
+
+- Clean code, clean data  
+- Fast pipelines  
+- Real impact  
 
 ---
 
-## Projects
+## 🛠️ Skills
 
-**Churn Prediction – Beta Bank**  
-Built a model to predict which customers are at risk of leaving.  
-[View repo](https://github.com/muerza/prediccion-de-churn-en-beta-bank)
+<img align="right" src="https://github.com/muerza/assets/blob/main/muerza-banner.png" width="300"/>
 
-**Real Estate Valuation Model (Production)**  
-Trained a property valuation model (R² = 0.904) and deployed it as a REST API using Django and Docker. Reduced valuation time from 4 hours to 39 seconds.
+- 🐍 Python, SQL  
+- 📦 pandas, NumPy, scikit-learn  
+- 🧪 EDA, feature engineering, modeling  
+- 🐳 Docker, 🧑‍🍳 Django, 📓 Jupyter  
+- 🤖 ML pipelines & API deployment  
+- 🔁 Automation (Make, n8n)
 
 ---
 
-## Contact
-[LinkedIn](https://linkedin.com/in/muerza) | [Website](https://fernandomuerza.com)
+## 🚧 Projects
+
+### 🔍 **Churn Prediction – Beta Bank**  
+Predicting customer churn for a fictional bank to help with retention.  
+👉 [See the repo](https://github.com/muerza/prediccion-de-churn-en-beta-bank)
+
+### 🏡 **Real Estate Valuation API** *(Live)*  
+Built and deployed a property valuation model (R² = 0.904).  
+📦 Django + Docker API → reduced valuation time from 4h to 39s!
+
+---
+
+## 🧾 Certifications
+
+- 🛠️ **Make Advanced – API Automation** (Make Academy, 2025)  
+- 📐 **System Design Mastery** (ByteMonk Academy, in progress)  
+- 🧠 **Data Science Bootcamp** (TripleTen, in progress)  
+- 💸 **Valuation & Finance** (Aswath Damodaran, NYU)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/muerza"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://github.com/muerza"><img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" /></a>
+  <a href="https://fernandomuerza.com"><img src="https://img.shields.io/badge/Portfolio-222?logo=internet-explorer&style=for-the-badge" /></a>
+</p>
