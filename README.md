@@ -45,15 +45,6 @@ Built and deployed a property valuation model (R² = 0.904).
 
 ---
 
-## 🧾 Certifications
-
-- 🛠️ **Make Advanced – API Automation** (Make Academy, 2025)  
-- 📐 **System Design Mastery** (ByteMonk Academy, in progress)  
-- 🧠 **Data Science Bootcamp** (TripleTen, in progress)  
-- 💸 **Valuation & Finance** (Aswath Damodaran, NYU)
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
