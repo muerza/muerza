@@ -24,8 +24,6 @@ I’m all about:
 
 ## 🛠️ Skills
 
-<img align="right" src="https://github.com/muerza/assets/blob/main/muerza-banner.png" width="300"/>
-
 - 🐍 Python, SQL  
 - 📦 pandas, NumPy, scikit-learn  
 - 🧪 EDA, feature engineering, modeling  
