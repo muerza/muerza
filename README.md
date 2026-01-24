@@ -1,11 +1,3 @@
-# Fernando Muerza
-
-Científico de Datos | Python • Machine Learning • SQL  
-CDMX, México  
-[LinkedIn](https://linkedin.com/in/muerza) | [GitHub](https://github.com/muerza) | [Portafolio](https://fernandomuerza.com)
-
----
-
 ## Sobre mí
 Hola, soy Fernando. Me gusta usar los datos para resolver problemas y ayudar a que los negocios tomen mejores decisiones. Me interesa todo lo relacionado con machine learning y actualmente estoy interesado en aprender más sobre redes neuronales. También me late automatizar procesos y construir cosas que realmente se usen.
 
