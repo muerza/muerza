@@ -31,4 +31,4 @@ Modelo que predice el valor de una propiedad con R² = 0.904. Lo desplegué como
 ---
 
 ## Contacto
-[LinkedIn](https://linkedin.com/in/muerza) | [GitHub](https://github.com/muerza)
+[LinkedIn](https://linkedin.com/in/muerza) 
