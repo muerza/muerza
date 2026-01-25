@@ -18,7 +18,8 @@ I’m all about:
 
 - Clean code, clean data  
 - Fast pipelines  
-- Real impact  
+- Real impact
+- Buissnes solutions
 
 ---
 
