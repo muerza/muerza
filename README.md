@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Fernando </h1>
 
 <p align="center">
-  📊 Data Scientist • 🐍 Python Fan • 🚀 Automation Lover  
+  📊 Data Scientist • 🐍 Python Fan • 🚀 Automation   
   <br>
   🇲🇽 Based in CDMX | <a href="https://linkedin.com/in/muerza">LinkedIn</a> | <a href="https://fernandomuerza.com">Website</a>
 </p>
