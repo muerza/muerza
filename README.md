@@ -61,9 +61,7 @@ I'm all about:
 ### 🔍 Churn Prediction – Beta Bank
 
 Predicting customer churn for a fictional bank to help with retention.
-Built classification models using gradient boosting (XGBoost, LightGBM) with feature encoding & scaling pipelines.
-
-👉 [See the repo](https://github.com/muerza/prediccion-de-churn-en-beta-bank)
+Built classification models using gradient boosting (XGBoost, LightGBM) with feature encoding & scaling pipelines.👉 [See the repo](https://github.com/muerza/prediccion-de-churn-en-beta-bank)
 
 ### 🏡 Real Estate Valuation API *(Live)*
 
