@@ -11,7 +11,7 @@
 
 Hi! I'm Fernando — I like turning raw data into cool stuff.
 I build data-powered solutions that help businesses make smarter decisions.
-Currently geeking out on neural networks 🧬 and automating borin
+Currently geeking out on neural networks 🧬 and automating boring tasks with tools like Make and n8n ⚙️.
 
 🚀 **Latest production model:** Real estate valuation API (LightGBM, R² = 0.904) deployed via Django + Docker. Cut valuation time from **4 hours → 39 seconds** (-99.73%).
 
