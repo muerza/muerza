@@ -15,7 +15,7 @@ Currently geeking out on **RAG** 🔍 and **AWS** ☁️ to build smarter, scala
 
 🚀 **Latest production model:** Real estate valuation API (LightGBM, R² = 0.904) deployed via Django + Docker. Cut valuation time from **4 hours → 39 seconds** (-99.73%).
 
-What I focus on:
+I'm all about:
 - Models that ship, not just notebooks
 - Clean pipelines and reproducible code
 - Real business impact over fancy metrics
