@@ -9,7 +9,9 @@
 
 ## 🧠 About Me
 
-Data Scientist with **2+ years** building ML solutions from raw data to production APIs.
+Hi! I'm Fernando — I like turning raw data into cool stuff.
+I build data-powered solutions that help businesses make smarter decisions.
+Currently geeking out on neural networks 🧬 and automating borin
 
 🚀 **Latest production model:** Real estate valuation API (LightGBM, R² = 0.904) deployed via Django + Docker. Cut valuation time from **4 hours → 39 seconds** (-99.73%).
 
