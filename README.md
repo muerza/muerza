@@ -54,7 +54,7 @@ I'm all about:
 
 ---
 
-## 🤖 Machine Learning
+## Machine Learning
 
 - 📉 Gradient Descent optimization
 - 🌲 Gradient Boosting: XGBoost, LightGBM, CatBoost
@@ -62,15 +62,15 @@ I'm all about:
 - ⚖️ Feature scaling (Standard, MinMax, Robust)
 - 🧪 EDA, feature engineering, modeling
 - 🎯 Cross-validation & hyperparameter tuning
-- 🤖 ML pipelines & API deployment
+- 🧬 ML pipelines & API deployment
 
-## 🧬 Deep Learning & NLP
+## Deep Learning & NLP
 
 - 🖼️ Computer Vision: CNNs, ResNet50, Transfer Learning
 - 📝 NLP: BERT embeddings, TF-IDF, spaCy
 - 🔤 Text classification: Logistic Regression, Naive Bayes
 
-## ⚙️ Automation
+## Automation
 
 - 🔁 Make, n8n, Webhooks, REST APIs
 
@@ -78,7 +78,7 @@ I'm all about:
 
 ## 🚧 Featured Projects
 
-### 🏡 Real Estate Valuation API *(Live in production)*
+### Real Estate Valuation API *(Live in production)*
 
 End-to-end ML system for property valuation in the Mexican market.
 Deployed as a REST API with automated weekly retraining.
