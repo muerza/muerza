@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Fernando Muerza</h1>
 <p align="center">
-  📊 Data Scientist • 🤖 Machine Learning • 🚀 Production ML
+  📊 Data Scientist • 🤖 Machine Learning • 🚀 Production ML • ☁️ AWS Certified AI Practitioner
   <br>
   🇲🇽 Based in CDMX | <a href="https://linkedin.com/in/muerza">LinkedIn</a> | <a href="https://fernandomuerza.com">Portfolio</a>
 </p>
@@ -13,12 +13,22 @@ Hi! I'm Fernando — I like turning raw data into cool stuff.
 I build data-powered solutions that help businesses make smarter decisions.
 Currently geeking out on **RAG** 🔍 and **AWS** ☁️ to build smarter, scalable AI systems.
 
-🚀 **Latest production model:** Real estate valuation API (LightGBM, R² = 0.904) deployed via Django + Docker. Cut valuation time from **4 hours → 39 seconds** (-99.73%).
+🚀 **Latest production model:** Real estate valuation API (LightGBM, R² = 0.88 ± 0.02) deployed via Django + Docker. Cut valuation time from **4 hours → 39 seconds** (-99.73%).
 
 I'm all about:
 - Models that ship, not just notebooks
 - Clean pipelines and reproducible code
 - Real business impact over fancy metrics
+
+---
+
+## 🏅 Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/0d8cbde9-4c58-48c5-a7b6-51c232c79de2/public_url"><img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=for-the-badge&labelColor=232F3E" alt="AWS Certified AI Practitioner" /></a>
+</p>
+
+**AWS Certified AI Practitioner** · Amazon Web Services · Sep 2026 · [Verify on Credly](https://www.credly.com/badges/0d8cbde9-4c58-48c5-a7b6-51c232c79de2/public_url)
 
 ---
 
@@ -51,6 +61,10 @@ I'm all about:
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 
 ---
 
@@ -84,7 +98,7 @@ End-to-end ML system for property valuation in the Mexican market.
 Deployed as a REST API with automated weekly retraining.
 
 **Stack:** LightGBM · scikit-learn · Django · Docker · VPS
-**Impact:** R² = 0.904 · 4h → 39s (-99.73%) · 80% confidence intervals
+**Impact:** R² = 0.88 ± 0.02 · 4h → 39s (-99.73%) · 80% confidence intervals
 
 👉 [Try it live](https://fernandomuerza.com)
 
