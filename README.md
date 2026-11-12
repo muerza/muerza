@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Fernando Muerza</h1>
 <p align="center">
-  📊 Data Scientist • 🤖 Machine Learning • 🚀 Production ML • ☁️ AWS Certified AI Practitioner
+  📊 Data Scientist • 🤖 Machine Learning • 🚀 Production ML • ☁️ AWS Certified AI Practitioner & Cloud Practitioner
   <br>
-  🇲🇽 Based in CDMX | <a href="https://linkedin.com/in/muerza">LinkedIn</a> | <a href="https://fernandomuerza.com">Portfolio</a>
+  🇲🇽 Based in Puebla, Mexico | <a href="https://linkedin.com/in/muerza">LinkedIn</a> | <a href="https://fernandomuerza.com">Portfolio</a>
 </p>
 
 ---
@@ -26,9 +26,12 @@ I'm all about:
 
 <p>
   <a href="https://www.credly.com/badges/0d8cbde9-4c58-48c5-a7b6-51c232c79de2/public_url"><img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=for-the-badge&labelColor=232F3E" alt="AWS Certified AI Practitioner" /></a>
+  <a href="https://www.credly.com/badges/c9d90c17-55c8-47a6-9b00-4220b6b281e5/public_url"><img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&labelColor=232F3E" alt="AWS Certified Cloud Practitioner" /></a>
 </p>
 
 **AWS Certified AI Practitioner** · Amazon Web Services · Sep 2026 · [Verify on Credly](https://www.credly.com/badges/0d8cbde9-4c58-48c5-a7b6-51c232c79de2/public_url)
+
+**AWS Certified Cloud Practitioner** · Amazon Web Services · Oct 2026 · [Verify on Credly](https://www.credly.com/badges/c9d90c17-55c8-47a6-9b00-4220b6b281e5/public_url)
 
 ---
 
@@ -95,12 +98,10 @@ I'm all about:
 ### Real Estate Valuation API *(Live in production)*
 
 End-to-end ML system for property valuation in the Mexican market.
-Deployed as a REST API with automated weekly retraining.
+Deployed as a REST API with automatic retraining.
 
 **Stack:** LightGBM · scikit-learn · Django · Docker · VPS
 **Impact:** R² = 0.88 ± 0.02 · 4h → 39s (-99.73%) · 80% confidence intervals
-
-👉 [Try it live](https://fernandomuerza.com)
 
 ---
 
