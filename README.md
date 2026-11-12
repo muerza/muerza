@@ -2,7 +2,7 @@
 <p align="center">
   📊 Data Scientist • 🤖 Machine Learning • 🚀 Production ML • ☁️ AWS Certified AI Practitioner & Cloud Practitioner
   <br>
-  🇲🇽 Based in Puebla, Mexico | <a href="https://linkedin.com/in/muerza">LinkedIn</a> | <a href="https://fernandomuerza.com">Portfolio</a>
+  🇲🇽 Based in Puebla & CDMX, Mexico | <a href="https://linkedin.com/in/muerza">LinkedIn</a> | <a href="https://fernandomuerza.com">Portfolio</a>
 </p>
 
 ---
